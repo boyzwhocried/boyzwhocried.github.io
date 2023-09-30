@@ -42149,7 +42149,7 @@ A.h1("Data is not expired")
 s=1
 break}}p=9
 s=12
-return A.K(A.aE6(A.fU("http://localhost:8000/get-playlist",0,null)),$async$pW)
+return A.K(A.aE6(A.fU("https://bwc1-server.onrender.com/get-playlist",0,null)),$async$pW)
 case 12:e=b1
 if(e.b===200){a6=e
 d=B.aE.cJ(0,A.ajL(A.ajk(a6.e).c.a.i(0,"charset")).cJ(0,a6.w))
